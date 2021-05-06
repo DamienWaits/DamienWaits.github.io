@@ -179,6 +179,7 @@ img {
   -webkit-box-pack: center;
       -ms-flex-pack: center;
           justify-content: center;
+  background-image: url(../images/Trawl.JPG);
 }
 
 .section.skills > div {
