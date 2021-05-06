@@ -188,7 +188,6 @@ img {
 .skills-subsection {
   font-size: 20.8px;
   font-size: 1.3rem;
-  background-image: url(../images/Trawl.JPG);
 }
 
 .section-heading {
@@ -204,6 +203,10 @@ img {
 .nav-links {
   font-family: 'PT Sans', Arial, Helvetica, sans-serif;
   font-weight: bold;
+}
+
+.section-wrapper:nth-child(2) {
+  background-image: url(../images/Trawl.JPG);
 }
 
 .section-wrapper:nth-child(odd) {
