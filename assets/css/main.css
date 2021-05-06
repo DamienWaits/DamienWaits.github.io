@@ -423,8 +423,9 @@ img {
 }
 
 #nav {
-  background: url(../images/background.png);
-  background-repeat: repeat;
+  background: url(../images/ReflectionLMG_web.jpg);
+  background-repeat: no-repeat;
+  background-size: contain;
 }
 
 a {
