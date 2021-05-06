@@ -179,7 +179,6 @@ img {
   -webkit-box-pack: center;
       -ms-flex-pack: center;
           justify-content: center;
-  background-image: url(../images/Trawl.JPG);
 }
 
 .section.skills > div {
@@ -189,6 +188,7 @@ img {
 .skills-subsection {
   font-size: 20.8px;
   font-size: 1.3rem;
+  background-image: url(../images/Trawl.JPG);
 }
 
 .section-heading {
