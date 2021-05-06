@@ -283,8 +283,9 @@ img {
   font-family: 'PT Sans', Arial, Helvetica, sans-serif;
 
   background: url(../images/20200106_MKT_0286.jpg);
-  background-repeat: repeat;
+  background-repeat: no-repeat;
   background-attachment: fixed;
+  background-position: center;
 }
 
 .footer-text a {
