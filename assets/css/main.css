@@ -206,8 +206,11 @@ img {
 }
 
 .section-wrapper:nth-child(odd) {
-  background: url(../images/20200106_MKT_0286.jpg);
-  background-repeat: repeat;
+  background: url(../images/20140627_163014.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: contain;
 }
 
 .section-wrapper:nth-child(odd) .section-heading {
