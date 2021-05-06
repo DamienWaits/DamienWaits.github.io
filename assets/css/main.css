@@ -210,7 +210,7 @@ img {
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-position: center;
-  background-size: contain;
+  background-size: cover;
 }
 
 .section-wrapper:nth-child(odd) .section-heading {
@@ -430,6 +430,7 @@ img {
 #nav {
   background: url(../images/20200106_MKT_0286.jpg);
   background-repeat: repeat;
+  background-size: cover;
 }
 
 a {
