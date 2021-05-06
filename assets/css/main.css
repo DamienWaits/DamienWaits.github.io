@@ -205,11 +205,12 @@ img {
   font-weight: bold;
 }
 
-.section-wrapper:nth-child(2) {
+.section-wrapper:nth-child(3) {
   background-image: url(../images/Trawl.JPG);
+  background-size: cover;
 }
 
-.section-wrapper:nth-child(odd) {
+.section-wrapper:nth-child(even) {
   background: url(../images/background.png);
   background-repeat: repeat;
 }
